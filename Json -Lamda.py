@@ -9,7 +9,16 @@ employee_data ={
         "position": "Software Engineer",
         "salary": 75000,
         "hireDate": "2020-01-15"
+    },{
+        "employeeId": "2",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@example.com",
+        "position": "Project Manager",
+        "salary": 85000,
+        "hireDate": "2018-05-22"
     },
+
     # Add all other employee data here
 
 
