@@ -18,7 +18,6 @@ employee_data ={
         "salary": 85000,
         "hireDate": "2018-05-22"
     },
-print("Test")
 
     # Add all other employee data here
 
